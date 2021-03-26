@@ -1,0 +1,13 @@
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\bin\Debug\netcoreapp3.1\alglab_1.exe
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\bin\Debug\netcoreapp3.1\alglab_1.deps.json
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\bin\Debug\netcoreapp3.1\alglab_1.runtimeconfig.json
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\bin\Debug\netcoreapp3.1\alglab_1.runtimeconfig.dev.json
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\bin\Debug\netcoreapp3.1\alglab_1.dll
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\bin\Debug\netcoreapp3.1\alglab_1.pdb
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\obj\Debug\netcoreapp3.1\alglab_1.csprojAssemblyReference.cache
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\obj\Debug\netcoreapp3.1\alglab_1.AssemblyInfoInputs.cache
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\obj\Debug\netcoreapp3.1\alglab_1.AssemblyInfo.cs
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\obj\Debug\netcoreapp3.1\alglab_1.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\obj\Debug\netcoreapp3.1\alglab_1.dll
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\obj\Debug\netcoreapp3.1\alglab_1.pdb
+C:\Users\IVAN\source\repos\alglab_1\alglab_1\obj\Debug\netcoreapp3.1\alglab_1.genruntimeconfig.cache
